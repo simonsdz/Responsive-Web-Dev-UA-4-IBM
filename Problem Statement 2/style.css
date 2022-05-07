@@ -1,0 +1,52 @@
+span {
+      color: red;
+}
+.main-header {
+      margin: 1em;
+      background-color: rgb(194, 214, 232);
+      width: fit-content;
+      border-radius: 5px;
+}
+h1 {
+      padding: .5em;
+}
+.forms {
+      width: fit-content;
+      margin-left: 2em;
+}
+.forms legend {
+      padding: 1.5em;
+}
+
+.fullName {
+      margin: 1em;
+      padding: .2em;
+}
+
+.dateTime {
+      margin-bottom: 2em;
+      margin-top: 1.5em;
+      margin-left: 4em;
+      padding: .3em;
+}
+
+.messageClass {
+      margin-top: 1em;
+      margin-left: .5em;
+      padding: 2em;
+}
+
+.submitBtn {
+      margin-top: 3em;
+      margin-bottom: .6em;
+      margin-left: .5em;
+
+}
+
+.container {
+      padding: 3em;
+}
+
+input:focus, textarea:focus {
+      background: rgb(221, 217, 217);
+}
